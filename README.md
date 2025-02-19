@@ -1,4 +1,4 @@
-# EducationalDataMining
+# Educational Data Mining
 ## About Me
 113-2 教育資料探勘專題製作 Educational Data Mining Projects
 - ✨ 系級：科技系4年級
