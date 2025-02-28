@@ -15,6 +15,20 @@
   - 關聯分析 （Association）
   - 順序型態分析 （Sequential Pattern Analysis）
   - 時間序列分析（Time Series Forecasting）
+- 關聯規則與算法：
+  - 強規則：
+    - 頻繁樣式：當符合X也滿足Y
+      - 購物籃分析（典型應用情境）
+    - 資料間關聯：找出所有頻繁項目集
+    - 因果：整理出常見的組合
+  **相關不代表（不等於）因果、相關不等於時序**
+- 順序形態規則：
+  - 時間序列
+  - 序列模型分析
+  **關聯規則：同一個人當下買了什麼（購買清單）
+    序列規則：同一個人不同時間購買清單**
+### 0306 
+
 ## HW
 ## Course ppt
 - [Week1](https://docs.google.com/presentation/d/1-G6M1bhl5N7r2uPmMR3QTBVqHi0T1gjOpmEFq62xqkA/edit#slide=id.g2749d2107be_0_16)
