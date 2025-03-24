@@ -34,6 +34,10 @@
   
 ### 0306 
 - [Prectice code](https://github.com/cpeggy/EducationalDataMining/blob/main/week3_DataLoading.ipynb)
+
+### 0319
+- [Prectice code](https://github.com/cpeggy/EducationalDataMining/blob/main/week4.ipynb)
+
 ## HW
 ## Course ppt
 - [Week1](https://docs.google.com/presentation/d/1-G6M1bhl5N7r2uPmMR3QTBVqHi0T1gjOpmEFq62xqkA/edit#slide=id.g2749d2107be_0_16)
