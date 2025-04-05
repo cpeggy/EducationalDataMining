@@ -39,5 +39,8 @@
 - [Prectice code](https://github.com/cpeggy/EducationalDataMining/blob/main/week4.ipynb)
 
 ## HW
+- Midterm presentation
+  - [Analysis code](https://github.com/wilburkwan/edu_datamining/tree/main/mid_term_presentation%20112_113學力檢測作答反應(含成績))
+  - [PPT](https://gamma.app/docs/-724u3m7aidt6c0t)
 ## Course ppt
 - [Week1](https://docs.google.com/presentation/d/1-G6M1bhl5N7r2uPmMR3QTBVqHi0T1gjOpmEFq62xqkA/edit#slide=id.g2749d2107be_0_16)
