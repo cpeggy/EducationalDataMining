@@ -134,7 +134,7 @@ def main():
         os.path.join(base_path, "縣立金湖國小_班級.csv"),
         os.path.join(base_path, "縣立金鼎國小_班級.csv"),
         os.path.join(base_path, "縣立開瑄國小_班級.csv"),
-        os.path.join(base_path, "顯立古城國小_班級.csv") # 根據您的檔案列表，新增此檔案
+        os.path.join(base_path, "縣立古城國小_班級.csv") # 根據您的檔案列表，新增此檔案
     ]
 
     results = []
