@@ -42,5 +42,9 @@
 - Midterm presentation
   - [Analysis code](https://github.com/wilburkwan/edu_datamining/tree/main/mid_term_presentation%20112_113學力檢測作答反應(含成績))
   - [PPT](https://gamma.app/docs/-724u3m7aidt6c0t)
+- Final presentation
+  - [Analysis code](https://github.com/cpeggy/EducationalDataMining/tree/main/final_term)
+  - [Medium](https://medium.com/@peggygirl0202/%E6%8E%A2%E8%A8%8E%E9%87%91%E9%96%80%E7%B8%A33-6%E5%B9%B4%E7%B4%9A%E6%95%B8%E5%AD%B8%E6%B8%AC%E9%A9%97%E7%B5%90%E6%9E%9C%E5%BC%B7%E5%BC%B1%E9%A0%85%E8%88%87%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E9%87%8F%E5%88%86%E6%9E%90-4f90fe5e2bb3)
+  
 ## Course ppt
 - [Week1](https://docs.google.com/presentation/d/1-G6M1bhl5N7r2uPmMR3QTBVqHi0T1gjOpmEFq62xqkA/edit#slide=id.g2749d2107be_0_16)
