@@ -1,20 +1,20 @@
 ## 程式說明：
 
 ### 1. 數據處理類 (Data Processing)
-📄 a.py - 康軒平台數據處理（原始版）
+📄 [a.py - 康軒平台數據處理（原始版）](https://github.com/cpeggy/EducationalDataMining/blob/main/final_term/a.py)
 
 - 功能: 解析康軒平台班級CSV檔案，提取數學任務統計
 - 輸入: 康軒平台資料夾中的班級CSV檔案
 - 輸出: 控制台顯示統計表格
 - 關鍵指標: 總派出任務數、完成任務數、完成率、正答率
 
-📄 a_copy.py - 康軒平台數據處理（修改版）
+📄 [a_copy.py - 康軒平台數據處理（修改版）](https://github.com/cpeggy/EducationalDataMining/blob/main/final_term/a_copy.py)
 
 - 功能: a.py的增強版，增加CSV輸出功能
 - 新增: 自動輸出platform_data.csv檔案
 - 用途: 為後續視覺化分析提供標準化數據
 
-📄 app_modified.py - 學力測驗成績處理（簡化版）
+📄 [app_modified.py - 學力測驗成績處理（簡化版）]()
 
 - 功能: 載入並處理學力測驗成績資料
 - 輸入: 113年度學力測驗各年級CSV檔案
